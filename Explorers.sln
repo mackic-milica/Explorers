@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Explorers", "Explorers\Explorers.csproj", "{E845A4E7-B2BB-4F05-A274-8BAFCD9A9986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorersTest", "ExplorersTest\ExplorersTest.csproj", "{C16D51B8-A8AA-4983-B55A-554F8A05A66E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E845A4E7-B2BB-4F05-A274-8BAFCD9A9986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E845A4E7-B2BB-4F05-A274-8BAFCD9A9986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E845A4E7-B2BB-4F05-A274-8BAFCD9A9986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E845A4E7-B2BB-4F05-A274-8BAFCD9A9986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16D51B8-A8AA-4983-B55A-554F8A05A66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16D51B8-A8AA-4983-B55A-554F8A05A66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16D51B8-A8AA-4983-B55A-554F8A05A66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16D51B8-A8AA-4983-B55A-554F8A05A66E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {975170A1-2F4C-4CBC-870D-F195A01D988E}
+	EndGlobalSection
+EndGlobal
